@@ -1,0 +1,23 @@
+.regle h3{
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    margin: 1rem;
+}
+.regle h2{
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+}
+.regle strong{
+    color: brown;
+}
+.regle h1{
+    color: rgb(255, 0, 0);
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    margin: 1rem;
+}
+.container {
+    padding-left: 20%;
+    padding-right: 20%;
+    
+  }
